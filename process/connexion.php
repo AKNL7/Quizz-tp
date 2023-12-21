@@ -14,5 +14,5 @@ try{
 }
 
 catch (Exception $message) {
-  echo "Erreur" . "<pre>$message</^pre" ;
+  echo "Erreur" . "<pre>$message</pre>" ;
 }
