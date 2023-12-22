@@ -2,7 +2,7 @@
 
 try{
 
-  $dsn= 'mysql:host=localhost;dbname=quizz';
+  $dsn= 'mysql:host=localhost;dbname=tp_quizz';
   
   $user= 'root';
 
